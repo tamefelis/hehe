@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import docx
 from docx import Document
 import shutil
 from dateutil import parser
