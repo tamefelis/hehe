@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.graph_objects as go
+from plotly import plotly.graph_objects as go
 import numpy as np
 from datetime import datetime
 import plotly.io 
